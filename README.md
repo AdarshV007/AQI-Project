@@ -16,7 +16,8 @@ Project Structure:
 
 - For the back end code (data processing, model training, etc.), please refer to the file: AQI_backend
 - For the front end code (Streamlit application), please refer to the file: AQI_frontend.py
-- Screenshots of back end code and front end code are also attached.
+- Screenshots of back end code and front end code are attached.
+- Data set is also attached.
 
 
 
