@@ -11,3 +11,14 @@ Major Features:
 - Intelligent Prediction Engine: Under the hood, a robust scikit-learn pickle model (finalmodel.pkl) ensures accurate and reliable AQI predictions. 🧠
 - Clear Health Status Indicators: The predicted AQI is beautifully categorized into easy-to-understand health statuses (e.g., Good ✅, Moderate ⚠️, Unhealthy 😷). Each status is clearly color-coded to provide immediate visual feedback. 🌈
 - Stunning & Modern Design: Featuring custom CSS with the elegant Poppins font, subtle shadows, and rounded elements, the interface is designed to be both functional and visually appealing. 🎨
+  
+Project Structure:
+
+- For the backend code (data processing, model training, etc.), please refer to the file: AQI_backend
+- For the frontend code (Streamlit application), please refer to the file: AQI_frontend.py
+- Screenshots of back end code and front end code are also attached.
+
+
+
+
+
